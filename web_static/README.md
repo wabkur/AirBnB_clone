@@ -1,1 +1,1 @@
-HTML page that displays a header and footer by using CSS files
+HTML page that displays a header, footer and a filters box with a search button
