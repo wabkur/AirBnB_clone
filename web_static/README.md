@@ -1,1 +1,1 @@
-HTML page that displays a header, footer, a filters box with dropdown and results
+Improve the Places section by using Flexible boxes for all Place articles
